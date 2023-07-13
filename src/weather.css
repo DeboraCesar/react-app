@@ -4,14 +4,14 @@ body {
 
 .weather {
     margin-top: 50px;
-    border: 2px solid #8046df;
+    border: 2px solid rgb(132, 89, 201);
     display: block;
     border-radius: 10px;
-    width: 750px;
+    width: 700px;
 }
 
 h2 {
-    color: #8046df;
+    color: #7146df;
     margin-top: 20px;
     text-align: center;
     font-size: 52px;
@@ -41,7 +41,7 @@ hr {
 
 .weatherTemp a {
     text-decoration: none;
-    color: #a47fe0;
+    color: #9465e0;
 }
 
 .weatherTemp {
@@ -61,17 +61,17 @@ hr {
 .shadow-sn {
     text-align: center;
     color: white;
-    background: #8046df;
-    border: #8046df;
+    background: #4698df;
+    border: #4698df;
     display: block;
-    font-size: 15px;
+    font-size: 16px;
     box-shadow: 5px 5px 10px rgb(168, 165, 165);
     transition: all 200ms ease-in-out;
 }
 
 .shadow-sn:hover {
-    background: #a47fe0;
+    background: #8141e9;
     color: white;
     cursor: pointer;
-    border: #a47fe0;
+    border: #716288;
 }
