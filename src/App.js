@@ -6,19 +6,7 @@ function App() {
   return (
     <div className="weather-app">
       <div className="container">
-        <Weather defaultCity="London" />
-        <footer>
-          <p>
-            <a
-              className="Git-link"
-              href="https://github.com/dianatech-id/react-weather-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Open Source
-            </a>
-          </p>
-        </footer>
+        <Weather defaultCity="Lisbon" />
       </div>
     </div>
   );

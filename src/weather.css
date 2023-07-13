@@ -14,7 +14,7 @@ h2 {
     color: #7146df;
     margin-top: 20px;
     text-align: center;
-    font-size: 52px;
+    font-size: 50px;
     font-weight: bold;
 }
 
@@ -41,7 +41,7 @@ hr {
 
 .weatherTemp a {
     text-decoration: none;
-    color: #9465e0;
+    color: #4698df;
 }
 
 .weatherTemp {
