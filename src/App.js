@@ -9,7 +9,6 @@ function App() {
         <Weather defaultCity="London" />
         <footer>
           <p>
-            Coded by Diana M. {""}
             <a
               className="Git-link"
               href="https://github.com/dianatech-id/react-weather-app"
