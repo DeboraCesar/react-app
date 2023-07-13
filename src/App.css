@@ -1,13 +1,16 @@
-.Container {
-  text-align: left;
-  border: solid 3px;
-  margin: auto;
-  max-width: 550px;
-  padding: 50px;
-  margin-top: 50px;
-  font-family: "Roboto", sans-serif;
-  border-color: rgba(0, 0, 0, 0.1);
-  border-radius: 4px;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
-    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+.weather-app {
+  max-width: 750px;
+  margin: 0px auto;
+}
+
+footer p {
+  text-align: center;
+  font-size: 16px;
+  padding-top: 15px;
+  padding-left: 39px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #a47fe0;
 }
