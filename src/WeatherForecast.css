@@ -1,0 +1,19 @@
+.WeatherForecast {
+    text-align: center;
+    font-weight: bold;
+}
+
+.daily-icon {
+    text-align: center;
+}
+
+.daily-temp-max {
+    margin-right: 4px;
+    text-align: center;
+    opacity: 0.5;
+}
+
+.daily-temp .daily-temp-min {
+    text-align: center;
+    color: rgba(186, 192, 198, 0.8);
+}
