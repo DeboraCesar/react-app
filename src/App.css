@@ -1,3 +1,8 @@
+body {
+  background-image: url(blueclouds.jpg);
+  background-size: cover;
+  background-position: center;
+}
 .weather-app {
   max-width: 750px;
   margin: 0px auto;
@@ -6,7 +11,17 @@
 footer p {
   text-align: center;
   font-size: 16px;
-  padding-top: 15px;
-  padding-left: 39px;
+  padding-top: 20px;
+  padding-left: 35px;
+  color: white;
+  font-weight: bold;
 }
 
+.form-control {
+  opacity: 0.8;
+}
+
+footer a {
+  color: #9ab4da;
+  font-weight: bold;
+}
