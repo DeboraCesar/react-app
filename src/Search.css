@@ -13,14 +13,14 @@
 .Search .search-button {
     padding: 6px 14px;
     border-radius: 5px;
-    background-color: #2ca8dd;
+    background-color: rgb(94, 127, 188);
     color: #fff;
     border: none;
     margin-left: 4px;
 }
 
 .Search .search-button.green {
-    background-color: #1c299f;
+    background-color: rgb(94, 127, 188);
 }
 
 .weather {
